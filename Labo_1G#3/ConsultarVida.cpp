@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void ConsultarVida(float vida){
+void ConsultarVida(int vida){
 
     cout<<"Vida: "<<vida<<endl;
 
